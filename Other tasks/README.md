@@ -1,1 +1,1 @@
-123
+2017, AAAI, Examples-Rules Guided Deep Neural Network for Makeup Recommendation;
