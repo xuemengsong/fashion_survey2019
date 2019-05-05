@@ -7,3 +7,4 @@
 2018, IEEE Winter Conference on Applications of Computer Vision, Efficient Multi-Attribute Similarity Learning Towards Attribute-based Fashion Search;
 2018, MM, Interpretable Multimodal Retrieval for Fashion Products;
 2012, CVPR, Street-to-Shop Cross-Scenario Clothing Retrieval via Parts Alignment and Auxiliary Set;
+2015, ICCV, Where to Buy It Matching Street Clothing Photos in Online Shops;
