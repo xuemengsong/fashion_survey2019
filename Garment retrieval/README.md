@@ -1,10 +1,11 @@
+2012, CVPR, Street-to-Shop Cross-Scenario Clothing Retrieval via Parts Alignment and Auxiliary Set;
 2015, ICCV, Cross-domain Image Retrieval with a Dual Attribute-aware Ranking Network;
+2015, ICCV, Where to Buy It Matching Street Clothing Photos in Online Shops;
 2015, SIGIR, Image-based Recommendations on Styles and Substitutes;
 2016, CVPR, DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations;
 2016, ICMR, MVC: Dataset for View-Invariant Clothing Retrieval and Attribute Prediction;
+2016, MM, Deep Bi-directional Cross-triplet Embedding for Cross-Domain Clothing Retrieval;
 2017, CVPR, Memory-Augmented Attribute Manipulation Networks for Interactive Fashion Search;
 2018, CVPR, Learning Attribute Representations with Localization for Flexible Fashion Search;
 2018, IEEE Winter Conference on Applications of Computer Vision, Efficient Multi-Attribute Similarity Learning Towards Attribute-based Fashion Search;
 2018, MM, Interpretable Multimodal Retrieval for Fashion Products;
-2012, CVPR, Street-to-Shop Cross-Scenario Clothing Retrieval via Parts Alignment and Auxiliary Set;
-2015, ICCV, Where to Buy It Matching Street Clothing Photos in Online Shops;
