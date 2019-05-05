@@ -3,3 +3,4 @@
 2016, CVPR, DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations;
 2016, ICMR, MVC: Dataset for View-Invariant Clothing Retrieval and Attribute Prediction;
 2017, ICME, FASHION ANALYSIS WITH A SUBORDINATE ATTRIBUTE CLASSIFICATION NETWORK;
+2018, CVPR, Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification;
