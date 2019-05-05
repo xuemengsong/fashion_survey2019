@@ -6,3 +6,20 @@
 2018, KDD, Product Characterisation towards Personalisation;
 2018, SIGAR, Neural Compatibility Modeling with Attentive Knowledge Distillation;
 2017, SIGAR, DeepStyle: Learning User Preferences for Visual Recommendation;
+2017, eCOM@SIGAR, Discovering Similar Products in Fashion E-commerce;
+2018, WWW, Learning from Multi-View Multi-Way Data via Structural Factorization Machines;
+2018, WWW, Aesthetic-based Clothing Recommendation;
+2015, CVPR, Fashionista A Fashion-aware Graphical System for Exploring Visually Similar Items;
+2015, SIGAR, Image-based Recommendations on Styles and Substitutes;
+2016, IJCAI, Sherlock: Sparse Hierarchical Embeddings for Visually-aware One-class Collaborative Filtering;
+2015, ICCV, Learning Visual Clothing Style with Heterogeneous Dyadic Co-occurrences;
+2018, Database Management & Information Retrieval, Learning Discrete Hashing Towards Efficient Fashio;
+2018, IEEE Acess, Learning to Style-Aware Bayesian Personalized Ranking for Visual Recommendation;
+2017, ICCV, Recommending Outfits from Personal Closet;
+2017, ICDM, Visually-Aware Fashion Recommendation and Design with Generative Image Models;
+2018, arxiv, Personalizing Similar Product Recommendations in Fashion E-commerce;
+2016, ICDM, Learning Compatibility Across Categories for Heterogeneous Item Recommendation;
+2018, arxiv, Visually Explainable Recommendation;
+2018, arxiv, Interpretable Partitioned Embedding for Customized Fashion Outfit Composition;
+2018, arxiv, Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks;
+2018, IEEE Acess, Personal Tastes vs. Fashion Trends: Predicting Ratings Based on Visual Appearances and Reviews
