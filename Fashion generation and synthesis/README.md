@@ -5,3 +5,4 @@
 + 2018 CVPR Unsupervised Person Image Synthesis in Arbitrary Poses 
 + 2018 ACM MM Multi-View Image Generation from a Single-View 
 + 2019 CVPR Semantic Image Synthesis with Spatially-Adaptive Normalization 
++ 2019, CVPR, Unsupervised Person Image Generation with Semantic Parsing Transformation
