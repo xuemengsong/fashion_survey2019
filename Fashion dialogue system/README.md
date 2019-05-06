@@ -1,3 +1,4 @@
+2017 AAAI Fashion Conversation Data on Instagram
 2018 MM Knowledge-aware Multimodal Dialogue Systems
 2018 NIPS Dialog-based Interactive Image Retrieval
 2018 AAAI Towards Building Large Scale Multimodal Domain-Aware Conversation Ststems
