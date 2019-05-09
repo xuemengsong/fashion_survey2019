@@ -6,4 +6,3 @@
 + 2018 ACM MM Multi-View Image Generation from a Single-View 
 + 2018 ECCV, Language Guided Fashion Image Manipulation with Feature-wise Transformations
 + 2019 CVPR Semantic Image Synthesis with Spatially-Adaptive Normalization 
-+ 2019, CVPR, Unsupervised Person Image Generation with Semantic Parsing Transformation
