@@ -17,3 +17,6 @@
 + 2018 ACCV, PIVTONS: Pose Invariant Virtual Try-on Shoe with Conditional Image Completion
 + 2018 CVPR, VITON An Image-based Virtual Try-On Network
 
+
+
+
