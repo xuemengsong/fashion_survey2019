@@ -15,6 +15,5 @@
 + 2015 Transactions on Computational Science XXVI, Image-Based Virtual Fitting System with Garment Image Reshaping
 + 2017 ACM TOG, ClothCap Seamless 4D Clothing Capture and Retargeting
 + 2018 ACCV, PIVTONS: Pose Invariant Virtual Try-on Shoe with Conditional Image Completion
-+ 2018 arxiv, M2E-Try On Net_ Fashion from Model to Everyone
 + 2018 CVPR, VITON An Image-based Virtual Try-On Network
 
