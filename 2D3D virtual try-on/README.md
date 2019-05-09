@@ -17,7 +17,4 @@
 + 2018 ACCV, PIVTONS: Pose Invariant Virtual Try-on Shoe with Conditional Image Completion
 + 2018 arxiv, M2E-Try On Net_ Fashion from Model to Everyone
 + 2018 CVPR, VITON An Image-based Virtual Try-On Network
-+ 2018 ECCV, DeepWrinkles Accurate and Realistic Clothing Modeling
-+ 2018 ECCV, SwapNet Image Based Garment Transfer
-+ 2018 ECCV, Toward Characteristic-Preserving Image-based Virtual Try-On Network
-+ 2019 arxiv, Towards Multi-pose Guided Virtual Try-on Network
+
